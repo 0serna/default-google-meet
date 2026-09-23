@@ -30,3 +30,4 @@ coverage/
 # Copilot
 .github/copilot-instructions.md
 /plan
+.playwright-mcp/
